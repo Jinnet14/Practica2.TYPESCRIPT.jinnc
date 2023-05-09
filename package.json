@@ -1,0 +1,26 @@
+{
+  "name": "practica2",
+  "version": "1.0.0",
+  "description": "Ejercicio 2, Curso Samsung Desarrolladoras",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marasortiz/Practica_2-TypeScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marasortiz/Practica_2-TypeScript/issues"
+  },
+  "homepage": "https://github.com/marasortiz/Practica_2-TypeScript#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "systemjs": "^6.12.1",
+    "traceur": "^0.0.111"
+  }
+}
